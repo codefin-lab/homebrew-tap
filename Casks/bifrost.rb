@@ -1,6 +1,6 @@
 cask "bifrost" do
-  version "0.2.0+73"
-  sha256 "a91704b9bce73e444681210d9167b0f8a9e8b602ceab035227e2facf2478bfbb"
+  version "0.2.0+76"
+  sha256 "95313db5e0c39f3c3a0fdebf6364c2bf36e59d21dc90d76822a0dfdbd1e07403"
 
   url "https://pkg.bifrostvpn.co/mac/Bifrost-#{version.tr("+", ".")}.pkg"
   name "Bifrost"
